@@ -1,0 +1,15 @@
+*{padding: 0;
+    margin: 0;}
+
+    
+    #galeria .col-lg-4{
+        padding: 25px;
+    }
+    
+    #galeria img{
+            width: 95%; height: 325px; opacity: 50%; transition: 1s;
+        }
+#galeria img:hover{ 
+            opacity: 100%; 
+            width: 100%;
+            }
